@@ -1,4 +1,4 @@
-# 📦 Service Manager
+# 📦 Kernel
 
 > 🚧 This project is currently work in progress.
 
