@@ -1,8 +1,8 @@
-# Service Manager
+# 📦 Service Manager
 
 > 🚧 This project is currently work in progress.
 
-## License
+## ⚖️ License
 
 ```
 MIT License
